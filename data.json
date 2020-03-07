@@ -1,0 +1,25 @@
+{
+	"details":{
+		"image":"horse.jpg",
+		"name":"yesasri horse",
+		"email":"kottanavarshini0412@gmail.com",
+		"address":"forest"
+	},
+	"carrer":{
+           "info":"to become software engineer"
+    },
+    "educational":[
+    	{
+    	"institute":"view",
+    	"degree":"b-tech",
+    	"per":"9.63",
+    	"passoutyear":"2022"
+    },
+    {
+    	"institute":"sri chaitanya",
+    	"degree":"b-tech",
+    	"per":"98%",
+    	"passoutyear":"2022"
+    }]
+	
+}

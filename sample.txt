@@ -1,0 +1,19 @@
+<html>
+<head>
+                        <title>FirstPage</title>
+</head>
+<body>
+<h1>good afternoon</h1>
+<h2>good afternoon</h2>
+<h3>good afternoon</h3>
+<h4>good afternoon</h4>
+<h5>good afternoon</h5>
+<h6>good afternoon</h6>
+<p>hello</p>
+<b>surya</b>
+<strong>Sandhya</strong><br>
+<i>Rani</i><br>
+<em>Penukonda</em>
+<img src="Desert.jpg" alt="picture">
+</body>
+</html>
